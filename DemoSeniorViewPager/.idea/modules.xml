@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoSeniorViewPager.iml" filepath="$PROJECT_DIR$/DemoSeniorViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoviewpager/demoviewpager.iml" filepath="$PROJECT_DIR$/demoviewpager/demoviewpager.iml" />
+    </modules>
+  </component>
+</project>
